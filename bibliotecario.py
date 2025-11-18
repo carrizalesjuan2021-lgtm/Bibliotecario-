@@ -2,6 +2,7 @@ import json
 from IPython.display import display, HTML, Javascript
 from google.colab import output
 
+
 knowledge_base = {
     "TICS": {
 
