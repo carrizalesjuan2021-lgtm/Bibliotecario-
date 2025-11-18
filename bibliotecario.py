@@ -7,7 +7,7 @@ knowledge_base = {
 
         "1er Semestre": {
             "Algebra Lineal": [
-                {"title": "Álgebra Lineal", "author": "Stanley I. Grossman", "description": "Un clásico para entender los conceptos fundamentales de vectores, matrices y determinantes.", "keywords": ["vectores", "matrices", "determinantes"], "link": "https://example.com/algebra_grossman"},
+                {"title": "Álgebra Lineal 1", "author": "Stanley I. Grossman", "description": "Un clásico para entender los conceptos fundamentales de vectores, matrices y determinantes.", "keywords": ["vectores", "matrices", "determinantes"], "link": "https://example.com/algebra_grossman"},
                 {"title": "Álgebra Lineal y sus Aplicaciones", "author": "David C. Lay", "description": "Ideal para una visión más aplicada y práctica de la materia.", "keywords": ["aplicaciones", "transformaciones", "ejercicios"], "link": "https://example.com/algebra_lay"}
             ]
         },
