@@ -24,7 +24,10 @@ knowledge_base = {
             "Programación Web": [
                 {"title": "HTML and CSS: Design and Build Websites", "author": "Jon Duckett", "description": "Excelente para principiantes en diseño web.", "keywords": ["html", "css", "principiantes", "diseño web"], "link": "https://example.com/html_css_duckett"},
                 {"title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "description": "Una guía concisa para escribir JavaScript de calidad.", "keywords": ["javascript", "js", "frontend", "mejoras"], "link": "https://example.com/js_crockford"}
-            ]
+            ],
+            "Redes de computadoras": [
+                {"title": "Computer Networks", "author": "Andrew S. Tanenbaum; David J. Wetherall", "description": "Texto clásico y exhaustivo sobre redes de computadoras que explica modelos (OSI y TCP/IP), protocolos, conmutación y enrutamiento, enlace de datos, control de errores y fundamentos de seguridad. Muy recomendable para estudiantes y profesionales que buscan tanto teoría como aplicaciones prácticas.", "keywords": ["redes", "TCP/IP", "OSI", "enrutamiento", "protocolos", "Ethernet"], "link": "https://en.wikipedia.org/wiki/Computer_Networks_(book)"}
+            ],
         }
     },
 }
