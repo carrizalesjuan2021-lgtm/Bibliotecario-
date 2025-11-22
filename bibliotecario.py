@@ -18,6 +18,13 @@ knowledge_base = {
                 {"title": "Introduction to Algorithms", "author": "T. H. Cormen", "description": "Libro base para la materia, el que todo programador debe tener.", "keywords": ["algoritmos", "fundamentos", "complejidad"], "link": "https://example.com/algorithms_cormen"},
                 {"title": "Design Patterns: Elements of Reusable Object-Oriented Software", "author": "Gamma, Helm, Johnson, Vlissides", "description": "Referencia para los patrones de diseño más comunes en POO.", "keywords": ["patrones de diseño", "POO", "refactorizacion"], "link": "https://example.com/design_patterns"}
             ],
+            "Cálculo Integral": [
+                {"title": "Calculus, Volume II", "author": "Tom M. Apostol", "description": "Un texto formal y riguroso que cubre cálculo integral con fundamentos matemáticos profundos.", "keywords": ["cálculo integral", "riguroso", "universidad", "matemáticas avanzadas"], "link": "https://example.com/apostol_calc2"},
+                {"title": "Calculus with Analytic Geometry", "author": "George B. Thomas, Ross L. Finney", "description": "Un libro clásico, accesible pero completo, ideal para cursos universitarios.", "keywords": ["cálculo", "integrales", "universitario", "geometría analítica"], "link": "https://example.com/thomas_calculus"},
+                {"title": "Schaum's Outline of Calculus", "author": "Frank Ayres, Elliott Mendelson", "description": "Guía práctica con muchos ejercicios y explicaciones claras para reforzar conceptos de integral.", "keywords": ["ejercicios", "resumen", "integrales", "práctica"], "link": "https://example.com/schaum_calculus"},
+                {"title": "Calculus: Early Transcendentals", "author": "James Stewart", "description": "Uno de los libros más usados en ingeniería; explica integrales con aplicaciones reales.", "keywords": ["ingeniería", "aplicaciones", "transcendentales", "integrales"], "link": "https://example.com/stewart_transcendentals"},
+                {"title": "Elementary Calculus: An Infinitesimal Approach", "author": "H. Jerome Keisler", "description": "Explica cálculo usando infinitesimales, con un enfoque intuitivo y pedagógico.","keywords": ["infinitesimales", "intuitivo", "bases", "integrales"], "link": "https://example.com/keisler_calculus"}
+            ],
         },
 
         "5to Semestre": {
