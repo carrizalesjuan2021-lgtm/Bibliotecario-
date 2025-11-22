@@ -2,12 +2,13 @@ import json
 from IPython.display import display, HTML, Javascript
 from google.colab import output
 
+
 knowledge_base = {
     "TICS": {
 
         "1er Semestre": {
             "Algebra Lineal": [
-                {"title": "Álgebra Lineal", "author": "Stanley I. Grossman", "description": "Un clásico para entender los conceptos fundamentales de vectores, matrices y determinantes.", "keywords": ["vectores", "matrices", "determinantes"], "link": "https://example.com/algebra_grossman"},
+                {"title": "Álgebra Lineal 1", "author": "Stanley I. Grossman", "description": "Un clásico para entender los conceptos fundamentales de vectores, matrices y determinantes.", "keywords": ["vectores", "matrices", "determinantes"], "link": "https://example.com/algebra_grossman"},
                 {"title": "Álgebra Lineal y sus Aplicaciones", "author": "David C. Lay", "description": "Ideal para una visión más aplicada y práctica de la materia.", "keywords": ["aplicaciones", "transformaciones", "ejercicios"], "link": "https://example.com/algebra_lay"}
             ]
         },
@@ -28,6 +29,10 @@ knowledge_base = {
             "Redes de computadoras": [
                 {"title": "Computer Networks", "author": "Andrew S. Tanenbaum; David J. Wetherall", "description": "Texto clásico y exhaustivo sobre redes de computadoras que explica modelos (OSI y TCP/IP), protocolos, conmutación y enrutamiento, enlace de datos, control de errores y fundamentos de seguridad. Muy recomendable para estudiantes y profesionales que buscan tanto teoría como aplicaciones prácticas.", "keywords": ["redes", "TCP/IP", "OSI", "enrutamiento", "protocolos", "Ethernet"], "link": "https://en.wikipedia.org/wiki/Computer_Networks_(book)"}
             ],
+                {"title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "description": "Una guía concisa para escribir JavaScript de calidad.", "keywords": ["javascript", "js", "frontend", "mejoras"], "link": "https://example.com/js_crockford"},
+                {"title": "HTML y CSS Facil", "author": "Arnaldo Perez Castano", "description": "Un libro conciso para aprender a escribir HTML y CSS de calidad, y de manera facil.", "keywords": ["html", "css", "frontend", "facil"], "link": "https://www.buscalibre.com.mx/libro-html-y-css-facil/9788426721853/p/46343925"}
+                {"title": "Introducción a la programación web avanzada", "author": "Jordi Sánchez Cano", "description": "Una guía concisa para crear sitios web de calidad.", "keywords": ["vss", "html", "frontend", "mejoras"], "link": "https://dl.dropboxusercontent.com/scl/fi/935ne5q5fmjr5pecqikt9/introduccion-a-la-programacion-web-avanzada-jordi-sanchez-cano.pdf?rlkey=2kcdf34hl65aekp2hgwrabdvc&dl=0"}
+            ]
         }
     },
 }
