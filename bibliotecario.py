@@ -23,7 +23,8 @@ knowledge_base = {
         "5to Semestre": {
             "Programación Web": [
                 {"title": "HTML and CSS: Design and Build Websites", "author": "Jon Duckett", "description": "Excelente para principiantes en diseño web.", "keywords": ["html", "css", "principiantes", "diseño web"], "link": "https://example.com/html_css_duckett"},
-                {"title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "description": "Una guía concisa para escribir JavaScript de calidad.", "keywords": ["javascript", "js", "frontend", "mejoras"], "link": "https://example.com/js_crockford"}
+                {"title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "description": "Una guía concisa para escribir JavaScript de calidad.", "keywords": ["javascript", "js", "frontend", "mejoras"], "link": "https://example.com/js_crockford"},
+                {"title": "HTML y CSS Facil", "author": "Arnaldo Perez Castano", "description": "Un libro conciso para aprender a escribir HTML y CSS de calidad, y de manera facil.", "keywords": ["html", "css", "frontend", "facil"], "link": "https://www.buscalibre.com.mx/libro-html-y-css-facil/9788426721853/p/46343925"}
             ]
         }
     },
