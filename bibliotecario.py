@@ -12,7 +12,11 @@ knowledge_base = {
                 {"title": "Álgebra Lineal y sus Aplicaciones", "author": "David C. Lay", "description": "Ideal para una visión más aplicada y práctica de la materia.", "keywords": ["aplicaciones", "transformaciones", "ejercicios"], "link": "https://example.com/algebra_lay"}
             ]
         },
-
+        "2º Semestre": {
+            "Programación Orientada a Objetos": [
+                { "title": "Programación Orientada a Objetos en C++", "author": "Robert Lafore", "description": "Un texto claro para aprender los fundamentos de la POO usando C++.", "keywords": ["clases", "objetos", "herencia", "polimorfismo"], "link": "https://example.com/poo_lafore" },
+                { "title": "Java: How to Program", "author": "Paul Deitel, Harvey Deitel", "description": "Guía completa para dominar la POO en Java con ejemplos prácticos.", "keywords": ["java", "interfaces", "ejemplos", "ejercicios"], "link": "https://example.com/java_deitel" }
+            ]
         "3er Semestre": {
             "Programación Orientada a Objetos": [
                 {"title": "The Art of the B-Tree", "author": "D. E. Knuth", "description": "Libro técnico y avanzado sobre los fundamentos de las estructuras de datos tipo árbol.", "keywords": ["algoritmos", "estructuras de datos", "arboles"], "link": "https://example.com/btree_knuth"},
